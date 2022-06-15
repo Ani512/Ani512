@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Ani512 A.K.A Anirudh Umarji
-- 👀 I’m interested in Full Stack Development(HTML, CSS, JavaScript, MERN Stack) and Mobile App Development (Flutter)
-- 🌱 I’m currently honing my ReactJS, NodeJS and Flutter skills.
-- 💞️ I’m looking to collaborate on Web Development Projects | Flutter Projects and Data Structures and Algorithms Open Source Work
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently honing my Web Dev and Java Skills
+- 💞️ I’m looking to collaborate on Web Development Projects | Interested in System Design and Development
 - 📫 anirudh.umarji@utdallas.edu | anirudh.umarji@gmail.com | https://twitter.com/AnirudhUmarji | https://www.linkedin.com/in/anirudhumarji/
 - 💻 Aspiring Software Engineering
-- 🤵 Future Tech Lead
 
 <!---
 Ani512/Ani512 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

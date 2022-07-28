@@ -21,7 +21,9 @@ I am currently a Senior at the [University of Texas at Dallas](https://cs.utdall
 - anirudh.umarji@utdallas.edu 
 
 ##
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ani512&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ani512&count_private=true&theme=radical&show_icons=true&hide_border=true&include_all_commits=true" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ani512&layout=compact&hide=html,css&count_private=true&theme=radical&hide_border=true)
 
 
 <!---

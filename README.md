@@ -25,6 +25,7 @@ I am currently a Senior at the [University of Texas at Dallas](https://cs.utdall
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ani512&layout=compact&hide=html,css&count_private=true&theme=radical&hide_border=true)
 
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ani512's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Ani512&theme=radical&hide_border=true&layout=compact"/>
 
 <!---
 Ani512/Ani512 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

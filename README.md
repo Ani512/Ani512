@@ -2,7 +2,8 @@
 
 # 👋 Hello 
 My name is Anirudh (Ani) Umarji.  
-I am currently a Senior at the [University of Texas at Dallas](https://cs.utdallas.edu/) and also working at [The Washington Post](https://www.washingtonpost.com/) as a Software Engineering Intern.
+I am currently working at [The Washington Post](https://www.washingtonpost.com/) as a Software Engineering.
+Graduated May 2023 with my Bachelor's in Computer Science from the [University of Texas at Dallas](https://cs.utdallas.edu/) 
 
 
 -  I’m actively working on Full Stack Web Development and Mobile App Development Projects

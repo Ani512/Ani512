@@ -3,10 +3,10 @@
 # 👋 Hello 
 My name is Anirudh (Ani) Umarji.  
 I am currently working at [The Washington Post](https://www.washingtonpost.com/) as a Software Engineer.
-Graduated May 2023 with my Bachelor's in Computer Science from the [University of Texas at Dallas](https://cs.utdallas.edu/) 
+I graduated with my Bachelor's in Computer Science from the [University of Texas at Dallas](https://cs.utdallas.edu/) 
 
 
--  I’m actively working on Full Stack Web Development and Mobile App Development Projects
+-  I’m currently working on Backend projects and Mobile App Development Projects
 -  Feel free to reach out if you want to work on a Cool Project with me
    
    
